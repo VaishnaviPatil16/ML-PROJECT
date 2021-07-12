@@ -1,0 +1,2 @@
+# ML-PROJECT
+The goal of this project is to predict whether insurance policies are claimed based on some of features. Before doing data analysis, we will introduce travel insurance policy first. Usually, travel insurance will have coverage for travelers’ concerns, including flight delays, trip cancellation, or luggage loss. And some of policies include medical emergency. It means that the insured's age might have an influence on whether the policy is claimed.machine learning project on insurance policies to predict whether the insurance will be claimed or not.
